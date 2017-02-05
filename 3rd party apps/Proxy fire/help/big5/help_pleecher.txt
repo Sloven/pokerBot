@@ -1,0 +1,47 @@
+Help幫助文檔
+
+P-Leecher 論壇代理吸附
+
+一、說明
+吸附論壇的代理列表，自動驗証，可以設定過濾出需要的國家和端口再驗証（在驗証頁面設置）。
+
+論壇列表支持Forum Proxy Leecher的格式,即:
+forum link|topic link characteristic|whether scan accessory|accessory link characteristic
+
+支持獲取論壇附件
+
+二、使用步驟
+
+1,編輯論壇列表(forumlist.txt)
+可以直接用Forum Proxy Leecher的論壇列表,或者自己編輯
+需要編輯時,只要點Forum List按鈕
+
+2,點擊"Go" 開始吸附代理
+
+3,當獲取到的代理數到達設定的門限，開始驗証代理
+
+驗証前,先將代理去重復
+如果設定了國家限制和端口過濾,將先把指定國家和端口的代理過濾出來,再驗証。
+
+
+結果保存位置:
+lists\leecher 
+
+
+注:
+
+forumlist.txt的格式為:
+forum link|topic link characteristic|whether scan accessory|accessory link characteristic
+例如:
+1,吸附cnwebmasters上的代理,吸附附件,url中包含attachment.php為附件
+實際上這個只是個例子,獲取不到cnwebmasters上的附件,因為論壇設置了匿名不能看附件
+http://www.cnwebmasters.cn/forumdisplay.php?fid=6|viewthread.php|1|attachment.php
+2,吸附proxy4free上的page0 - page10
+http://www.proxy4free.com|page|0
+3,吸附aliveproxy論壇代理,無附件
+http://www.aliveproxy.com/forum/index.php?showforum=4|showtopic|0
+4,直接吸附單個url
+http://anonymous.ru/index.php?p=proxy
+
+
+

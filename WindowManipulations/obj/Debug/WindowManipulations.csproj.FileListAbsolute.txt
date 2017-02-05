@@ -1,0 +1,8 @@
+D:\myProjects\pokerBot\WindowManipulations\bin\Debug\WindowManipulations.dll
+D:\myProjects\pokerBot\WindowManipulations\bin\Debug\WindowManipulations.pdb
+D:\myProjects\pokerBot\WindowManipulations\obj\Debug\WindowManipulations.dll
+D:\myProjects\pokerBot\WindowManipulations\obj\Debug\WindowManipulations.pdb
+D:\myProjects\pokerBot\WindowManipulations\obj\Debug\WindowManipulations.csprojResolveAssemblyReference.cache
+D:\myProjects\pokerBot\WindowManipulations\bin\Debug\InputSimulator.dll
+D:\myProjects\pokerBot\WindowManipulations\bin\Debug\InputSimulator.pdb
+D:\myProjects\pokerBot\WindowManipulations\bin\Debug\InputSimulator.xml

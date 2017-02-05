@@ -1,0 +1,16 @@
+Help Document: Remove Duplicates (ordering and duplicates remove)
+
+Provid high-speed duplicates remove, at a rate of 100 thousand per seconds.
+
+Trim proxies:
+Choose "Trim Proxies", meanwhile extract proxy charater strings from disorder character strings.
+
+1. Import proxy list:
+Click "Import" to import the files or paste proxies to "In" textbox.
+
+2. Click "Go!" to run the operation.
+
+3. Get result:
+The results are preserved in the following directories:
+lists\unique\dup.txt       proxy list before duplicates remove
+lists\unique\unique.txt    Proxy list after duplicates remove

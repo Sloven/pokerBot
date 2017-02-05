@@ -1,0 +1,12 @@
+D:\myProjects\pokerBot\Neuronet\bin\Debug\Neuronet.dll
+D:\myProjects\pokerBot\Neuronet\bin\Debug\Neuronet.pdb
+D:\myProjects\pokerBot\Neuronet\bin\Debug\AForge.Neuro.dll
+D:\myProjects\pokerBot\Neuronet\bin\Debug\AForge.Genetic.dll
+D:\myProjects\pokerBot\Neuronet\bin\Debug\AForge.dll
+D:\myProjects\pokerBot\Neuronet\bin\Debug\AForge.Math.dll
+D:\myProjects\pokerBot\Neuronet\bin\Debug\AForge.Neuro.xml
+D:\myProjects\pokerBot\Neuronet\bin\Debug\AForge.Genetic.xml
+D:\myProjects\pokerBot\Neuronet\bin\Debug\AForge.xml
+D:\myProjects\pokerBot\Neuronet\bin\Debug\AForge.Math.xml
+D:\myProjects\pokerBot\Neuronet\obj\Debug\Neuronet.dll
+D:\myProjects\pokerBot\Neuronet\obj\Debug\Neuronet.pdb

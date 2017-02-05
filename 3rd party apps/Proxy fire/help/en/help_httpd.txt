@@ -1,0 +1,17 @@
+Proxyfire Help Documnet
+
+Httpd - Web Server of proxy list files
+
+You can use the integrated Web Server to publish your proxy list files.
+The proxy list files can be accessed var web browser(IE, firefox etc).
+The url is http://your_IP:your_PORT/ . 
+your_IP is your IP address, your_PORT is the PORT you set, the default PORT is 1981
+You can try http://127.0.0.1:1981/ on the local machine.
+
+The Web Server documents directory is "lists/".
+
+
+
+
+
+

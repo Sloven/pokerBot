@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Faker.Net</id>
+    <version>1.0.3</version>
+    <title />
+    <authors>Ben Smith, Ollie Riches</authors>
+    <owners>Ben Smith, Ollie Riches</owners>
+    <projectUrl>https://github.com/oriches/faker-cs</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>C# port of the Ruby Faker gem (http://faker.rubyforge.org/) and is used to easily generate fake data: names, addresses, phone numbers, etc.</description>
+    <summary>C# port of the Ruby Faker gem (http://faker.rubyforge.org/)</summary>
+    <copyright>Ben Smith 2012</copyright>
+    <tags>Faker Testing TDD .Net WP7 WP71</tags>
+  </metadata>
+</package>

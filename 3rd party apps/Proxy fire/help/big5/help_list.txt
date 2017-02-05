@@ -1,0 +1,33 @@
+Help幫助文檔
+
+ProxyList 代理列表查看
+
+一、使用說明
+左邊文件列表顯示的是lists目錄下的代理文件
+
+雙擊可查看代理文件
+
+點擊"IE"按鈕,可以通過http方式查看代理列表
+
+
+二、代理列表文件說明:
+
+checks		驗証結果文件夾
+country		代理國家結果文件夾
+disorder	亂序結果文件夾
+leecher		論壇吸附結果文件夾
+scan		代理掃描結果文件夾
+search		搜索引擎吸附結果文件夾
+uniq		去重復,提取有效代理結果文件夾
+
+check_report.txt驗証報告
+L1_chk.txt	代理驗証結果,超級代理(High Anonymous)
+L2_chk.txt	代理驗証結果,匿名代理(Anonymous)
+L3_chk.txt	代理驗証結果,透明代理(Transparent)
+ssl_chk.txt	支持SSL的代理
+tunnel_chk.txt	支持CONNECT的代理
+socks4_chk.txt	Socks4
+socks5_chk.txt	Socks5
+lib.txt		代理庫，積累有效代理
+gate.txt	網關代理
+

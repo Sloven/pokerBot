@@ -1,0 +1,15 @@
+D:\myProjects\pokerBot\AForge\Samples\Imaging\ShapeChecker\bin\Debug\ShapeChecker.exe
+D:\myProjects\pokerBot\AForge\Samples\Imaging\ShapeChecker\bin\Debug\ShapeChecker.pdb
+D:\myProjects\pokerBot\AForge\Samples\Imaging\ShapeChecker\bin\Debug\AForge.dll
+D:\myProjects\pokerBot\AForge\Samples\Imaging\ShapeChecker\bin\Debug\AForge.Imaging.dll
+D:\myProjects\pokerBot\AForge\Samples\Imaging\ShapeChecker\bin\Debug\AForge.Math.dll
+D:\myProjects\pokerBot\AForge\Samples\Imaging\ShapeChecker\bin\Debug\AForge.xml
+D:\myProjects\pokerBot\AForge\Samples\Imaging\ShapeChecker\bin\Debug\AForge.Imaging.xml
+D:\myProjects\pokerBot\AForge\Samples\Imaging\ShapeChecker\bin\Debug\AForge.Math.xml
+D:\myProjects\pokerBot\AForge\Samples\Imaging\ShapeChecker\obj\Debug\ShapeChecker.csprojResolveAssemblyReference.cache
+D:\myProjects\pokerBot\AForge\Samples\Imaging\ShapeChecker\obj\Debug\ShapeChecker.MainForm.resources
+D:\myProjects\pokerBot\AForge\Samples\Imaging\ShapeChecker\obj\Debug\ShapeChecker.Properties.Resources.resources
+D:\myProjects\pokerBot\AForge\Samples\Imaging\ShapeChecker\obj\Debug\ShapeChecker.AboutForm.resources
+D:\myProjects\pokerBot\AForge\Samples\Imaging\ShapeChecker\obj\Debug\ShapeChecker.csproj.GenerateResource.Cache
+D:\myProjects\pokerBot\AForge\Samples\Imaging\ShapeChecker\obj\Debug\ShapeChecker.exe
+D:\myProjects\pokerBot\AForge\Samples\Imaging\ShapeChecker\obj\Debug\ShapeChecker.pdb

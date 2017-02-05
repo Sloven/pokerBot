@@ -1,0 +1,51 @@
+Proxyfire Help Document
+
+Check - Check and Classify Proxies
+
+Provide high speed and good efficient proxies checking and classification functions.
+
+-->Spport Proxy type:
+HTTP, SOCKS4, SOCKS5,SSL,TUNNEL
+
+-->Spport Proxy Rank:
+ High Anonymous Proxy
+ Anonymous Proxy
+ Transparent Proxy
+ Gateway Proxy
+ SOCKS4/5 Proxy
+
+-->Proxy Library
+If the "Use Lib" check box is checked, the Proxy Libray function will be valid.
+Every good proxy will put in the Proxy Library. The Proxy Library will be refresh
+every 48 hours. Only the good proxies will be preserved.
+
+
+-->Sort Proxy by Speed
+If the "Show Speed" check box is checked, the response time of the proxy will be 
+show at the end of the checked proxies like this: 203.35.166.3:65208 $1.25, which
+means the response of 203.35.166.3:65208 is 1.25 second. 
+Click "Sort by Speed" menu item int the right click menu of the result list box
+to sort the proxies by speed.
+
+-->Check Page URL
+"AZ Environment variables" type page or use defined page (custom URL)  are spported.
+Set the check page  URL at the "Setting" TAB when you need.
+
+-->Check Steps
+
+Click "Import..." to import proxies from file or paste proxies to "Input" list box.
+Set "Threads" to 100 - 2000 according to your need.
+Click "Go!" to start.
+
+The status bar will show the checking progress.
+The checked good proxies will be classifid and listed in different list boxes, and stored
+in the result files.
+
+-->Check Result Files
+Check results are saved in the directory of lists/check
+L1_chk.txt High Anonymous (include socks4/5)
+L2_chk.txt Anonymous
+L3_chk.txt Transparent 
+ssl_chk.txt proxies support ssl
+tunnel_chk.txt proxies support CONNECT
+socks4/5_chk.txt Socks4/5

@@ -1,0 +1,13 @@
+D:\myProjects\pokerBot\Entity\bin\Debug\Entity.dll
+D:\myProjects\pokerBot\Entity\bin\Debug\Entity.pdb
+D:\myProjects\pokerBot\Entity\obj\Debug\Entity.dll
+D:\myProjects\pokerBot\Entity\obj\Debug\Entity.pdb
+D:\myProjects\pokerBot\Entity\bin\Debug\AForge.Neuro.dll
+D:\myProjects\pokerBot\Entity\bin\Debug\AForge.Genetic.dll
+D:\myProjects\pokerBot\Entity\bin\Debug\AForge.dll
+D:\myProjects\pokerBot\Entity\bin\Debug\AForge.Math.dll
+D:\myProjects\pokerBot\Entity\bin\Debug\AForge.Neuro.xml
+D:\myProjects\pokerBot\Entity\bin\Debug\AForge.Genetic.xml
+D:\myProjects\pokerBot\Entity\bin\Debug\AForge.xml
+D:\myProjects\pokerBot\Entity\bin\Debug\AForge.Math.xml
+D:\myProjects\pokerBot\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache

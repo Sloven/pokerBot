@@ -1,0 +1,9 @@
+D:\myProjects\pokerBot\Config\bin\Debug\Config.dll
+D:\myProjects\pokerBot\Config\bin\Debug\Config.pdb
+D:\myProjects\pokerBot\Config\obj\Debug\Config.dll
+D:\myProjects\pokerBot\Config\obj\Debug\Config.pdb
+D:\myProjects\pokerBot\Config\bin\Debug\Config.dll.config
+D:\myProjects\pokerBot\Config\bin\Debug\EntityFramework.dll
+D:\myProjects\pokerBot\Config\bin\Debug\EntityFramework.SqlServer.dll
+D:\myProjects\pokerBot\Config\bin\Debug\EntityFramework.xml
+D:\myProjects\pokerBot\Config\bin\Debug\EntityFramework.SqlServer.xml

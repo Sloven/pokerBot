@@ -1,0 +1,27 @@
+Help Document: ProxyList
+
+1,Direction for use:
+Shown on the left is the proxy files in "lists" directory.
+Double click to see the proxy files.
+Click "IE" button to see the ProxyList through "http".
+
+2,Proxy lists explanation:
+
+checks            check result folder
+country           ip-to-country result folder
+disorder          disorder result folder
+leecher           forum leech result folder
+scan              proxy scan result folder
+uniq              duplicates remove, good proxies result folder
+
+
+check_report.txt  check report
+L1_chk.txt        proxies check result, High Anonymous
+L2_chk.txt        proxies check result, Anonymous
+L3_chk.txt        proxies check result, Transparent
+ssl_chk.txt       proxies supporting SSL
+tunnel_chk.txt    proxies supporting CONNECT
+socks4_chk.txt    Socks4
+socks5_chk.txt    Socks5
+lib.txt	          proxy library, collecting good proxies
+gate.txt          gateway Proxy

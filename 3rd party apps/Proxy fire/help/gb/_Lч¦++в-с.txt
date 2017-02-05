@@ -1,0 +1,12 @@
+  如何注册为Proxyfire Persional或Proxyfire Professional用户
+
+
+1,通过Email注册
+您可以在运行后点击右上角的“注册...”，出现注册窗口，拷贝序列号，并发送到
+proxyfire.support@gmail.com
+索取注册码。
+收到注册码后输入到注册码文本框，单击“注册”按钮，完成注册。
+
+2,在线注册
+您也可以访问如下网址在线注册：
+http://proxyfire.org/purchase/

@@ -1,0 +1,235 @@
+﻿>>>>>> Update History
+
+21:23 18/11/2010
+Proxyfire Master Suite 1.24 released
+No new function added.
+recompiled pscan.exe, tscan.exe, proxytrim.exe and proxyfire.exe 
+
+18/03/2010
+Proxyfire Master Suite 1.23 Released
+1, Add: socks proxy checking URL can be customized 
+2, Bugfix: two unicode string bugs
+
+
+-------------------------------------------------
+The following is update history in Chinese Characters encoded in UTF-8
+
+>>>>>软件功能更新记录:
+20:20 2007-10-24
+Proxyfire Master Suite Professional 1.21 发布
+1, Added: 验证网址自动智能检验
+2, Added: Hostname危险关键词过滤
+3, Added: TCP扫描
+4, Added: 我的代理列表，支持定时从文件，URL获取代理
+5, Added: 代理扫描段优化增加端口统计功能
+6, Changed: 修改为多国语言版，当前支持英语，简体中文，繁体中文，并可方便的扩充更多语言
+
+14:46 2007-8-12
+Proxyfire Master Suite Professional 1.20 发布
+1, Added:  论坛吸附增加支持登陆型论坛(Login)吸附功能,可吸附更多高质量代理
+2, Added:  SMTP/Email代理验证
+3, Added:  验证代理前进行SYN扫描,大大加快验证速度
+4, Added:  增加SYN扫描时网段选择功能,方便多网段机器使用
+5, Added:  增加验证前去重复,随即乱序功能
+6, Changed:改进端口过滤和国家过滤,可以选择过滤去除,过滤保留或者不过滤
+
+21:17 2007-7-26
+Proxyfire.v1.19 供内部用户测试之用
+1, Changed: 更新代理验证内核，使占用更小内存，更少CPU资源，速度更快
+2, Changed: 并发验证对象数目允许用户随时调整
+3, Added:   增加验证重试次数功能
+
+
+2:15 2007-6-18
+proxyfire.v1.18发布
+1,Changed:验证非标准端口的socks代理
+2,Bugfix: 修正论坛吸附和搜索引擎吸附时因不及时删除老数据而造成代理累积的严重bug
+3,Bugfix: 修正特殊代理ipcountry查询造成死循环的bug
+4,Added:  搜索引擎吸附页面添加立即验证按钮
+5,Added:  增加验证地址维护功能，可自动验证所有验证地址的有效性
+6,Added:  增加完整的英文版本，包括帮助文档，IP所在国家库
+7,Added:  增加删除属于政府和军事的危险IP段和危险代理功能
+
+
+0:17 2007-4-6
+proxyfire.v1.17发布
+1,Added:   中英文界面任意切换，中文版和英文版合并为一个版本
+2,Added:   计划任务,可设置定点运行或者周期运行任务
+3,Added:   扫描IP段优化生成,可以从已有代理列表生成扫描IP段 
+4,Changed: 重写SYN扫描程序pscan.exe代替过去的s.exe,带宽充足的条件下速度可提高四倍
+5,Deleted: 删除TCP扫描功能,因为TCP扫描速度太慢,感觉比较鸡肋
+6,Changed: 代理搜索模块添加MSN搜索支持
+7,Changed: 更换内存管理模块 
+
+
+2:01 2007-3-2
+proxyfire.v1.16中文版，英文版发布
+1,Bugfix: 修正了ipcountry.exe中造成死循环的bug，感谢daixiy发现问题。
+2,Added:  tunnel, ssl代理验证支持
+3,Changed:增强ipcountry国家选择功能，感谢Proxy@cnwebmasters再次提供思路
+4,Added:  保存验证网址和其设置的参数功能，并添加20条分类验证地址。感谢daixiy提供创意。
+5,Bugfix: 修正ipcountry最后一行结果重复的bug，感谢daixiy发现问题。
+6,Added:  添加对"IP Port"型代理提取的支持。感谢daixiy提供创意。
+7,Changed:扫描代理的时候，在验证代理之前先去除重复代理
+8,Changed:修改httpd服务器，增加禁用，启用功能
+9,Added:  代理论坛吸附和代理搜索引擎吸附增加过滤掉指定端口的代理功能，感谢abacus2004提议
+10,Added: 增加删除不支持Cookie代理的功能
+
+0:37 2007-2-12
+proxyfire.v1.15中文版，英文版发布
+1, 双击设置IE代理，支持局域网,ADSL,拨号上网等网络连接类型
+2, 增加生成验证报表功能,便于查看验证结果和发布验证结果
+3, IPCountry页增加国家分组选择，以五大洲为单位，感谢Proxy@webmasters提供创意和数据
+4, 修改IPcountry.exe的bug
+5, 调整验证结果中的socks代理不再掺入到high anonymous(超级匿名) 
+5, 调整验证后代理格式，原来HTTP代理不加代理类型，现在在代理后添加@HTTP
+
+
+12:30 2006-12-23
+proxyfire.v1.14中文版，英文版发布
+1,修正bug
+2,替换页面获取核心库，减小程序体积，增强稳定性
+
+
+2:16 2006-9-19
+proxyfire.v1.13发布
+1,修正bug
+2,增加论坛代理吸附功能，兼容Forum Proxy Leecher论坛列表格式
+目前还不支持登陆型论坛，以后加上
+去掉以前的代理吸附办法，那个模板太复杂，不方便使用
+3,更新代理提取算法，可以获取更多的代理格式
+
+0:48 2006-9-17
+proxyfire.v1.12发布
+1,修正bug
+2,去除bin/s.exe,因为某些杀毒软件误报s扫程序为病毒
+需要搜索功能的请到http://proxyfire.org/s.exe
+下载，并放到bin目录下
+3,增加从搜索引擎吸收代理功能(P-Search)
+内置Google, Baidu, Yahoo!搜索引擎，并支持自定义搜索引擎
+自动将吸收的结果去重复，过滤出需要的国家，然后验证
+
+
+1:43 2006-9-14
+proxyfire.v1.11发布
+1,修正bug
+2,代理扫描功能(P-Scan)增加自动验证，循环扫描功能
+验证后的代理保存在lists/scan_*.txt
+更新扫描ip段，每日可保持扫到几千超级代理
+
+3:59 2006-9-11
+proxyfire.v1.10发布
+1,修正bug
+2,增加代理扫描功能(P-Scan)
+后台使用s扫，实现SYN或TCP方式高速代理扫描和验证
+
+1:23 2006-9-10
+proxyfire.v1.10beta发布
+1,修正bug
+2,增加文本行乱序功能(Disorder)
+
+
+2:18 2006-9-8 
+proxyfire.v1.09发布
+1,修正bug
+2,状态条上增加验证进度显示
+3,增加socks4,5代理验证功能
+4,增加显示代理速度选项，右键菜单增加“按速度排序”
+
+3:27 2006-9-7
+proxyfire.v1.08发布
+1,修正bug
+2,增加去除代理水印功能
+去重复的同时，可以从杂乱的字符中提取代理字符串
+这个功能是学习的ProxyJusticer，测试效果比ProxyJusticer要好，
+复杂的情况下ProxyJusticer丢掉的有效代理不少
+
+21:34 2006-9-6
+proxyfire.v1.07发布
+1,修正bug
+2,增加代理库
+每次验证的有效代理加入到代理库(lists/lib.txt)
+代理库每48小时(可自定义)更新(只保留有效)
+3,完善网关代理检测方法
+增加网关库gate.txt,使用同一个网关的多余代理将被视为网关代理
+感谢daixiy提供网关代理检测办法
+
+
+3:12 2006-9-6
+proxyfire.v1.06发布
+1,修正bug
+2,更新IP所在地查询库
+感谢daixiy与纯真IP库比较测试，感谢flyingfish83提供GeoIP库
+使用国外最新ip-to-country地址库(目前为2006.07.20版本),根据实验与www.maxmind.com的GeoIP库
+准确度一致，比国内的ip库准确很多
+ip-to-country.cvs官方网址为：http://ip-to-country.webhosting.info/
+GeoIP库官方网址为：http://www.maxmind.com/app/ip-location
+更新最新ip库的方法：
+1)，可下载最新ip-to-country.cvs库后，
+2)，用i2chan22汉化
+3)，拷贝到软件目录下，删除ipcountry.dat
+4), 重新运行软件，查询ip-country, 软件自动生成新ipcountry.dat
+ip所属地国际管理中心官方验证网址为:
+http://whois.org
+美国 ARIN(American Registry for Internet Numbers):
+http://ws.arin.net/cgi-bin/whois.pl 
+欧州 RIPE(Réseaux IP Européens) :
+http://www.ripe.net/db/whois/whois.html
+亚太地区(Asia Pacific Network Infomation Centre):
+http://www.apnic.net/apnic-bin/whois.pl/
+3,给每个文本框增加右键菜单，方便各种操作
+4,增加自定义验证地址功能，可以支持ProxyJudge,azenv等各种
+分级别验证页面，也支持猎手那样的不分级任意验证页面
+5,验证结果增加L1+L2合并结果，L1+L2+L3合并结果，分别放在L1+L2_chk.txt, L1+L2+L3_chk.txt
+6,完善httpd-web服务器
+7,添加网络超时设置
+
+
+2:01 2006-9-5
+proxyfire.v1.05发布
+修正bug
+验证页面增加网关代理列表，增加验证超时列表，添加循环验证选项
+增加退出等待线程结束窗口
+
+0:02 2006-9-4
+proxyfire.v1.04发布
+修正bug
+去除网关代理(代理ip与验证页面返回REMOTE_ADDR不同的代理)
+增加列表导出功能(F2导出)，导出时可选择格式和过滤代理
+增加双击代理，设置代理为IE浏览器代理功能(方便做lead的朋友)
+增加“模拟IE浏览器验证”功能"Simulate IE",如果验证的代理需要在浏览器中使用，请选中"Simulate IE"
+修改国家分组，可分不同的组导出，每个组包含多个国家
+
+4:16 2006-9-2
+proxyfire.v1.03发布
+修正bug
+增加ip国家查询按国家自定义分组
+
+20:10 2006-9-1
+proxyfire.v1.02发布
+修正bug
+增加代理验证信息显示
+关闭窗口默认行为改为最小化
+
+16:36 2006-9-1  
+proxyfire.v1.01发布
+
+
+
+特别感谢: daixiy,清风.Admin,xpg5555,wuhao,情无价,flyingfish83, Proxy等朋友的
+测试，建议以及帮助。
+感谢cnwebmasters.cn上各位朋友的建议和意见，感谢你们的帮助
+
+
+官方网站: http://proxyfire.org
+联系作者: hanlinux@hotmail.com
+欢迎使用和提交bug
+
+
+
+
+
+
+
+
+

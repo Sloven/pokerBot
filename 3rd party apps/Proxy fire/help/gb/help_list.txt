@@ -1,0 +1,33 @@
+Help帮助文档
+
+ProxyList 代理列表查看
+
+一、使用说明
+左边文件列表显示的是lists目录下的代理文件
+
+双击可查看代理文件
+
+点击"IE"按钮,可以通过http方式查看代理列表
+
+
+二、代理列表文件说明:
+
+checks		验证结果文件夹
+country		代理国家结果文件夹
+disorder	乱序结果文件夹
+leecher		论坛吸附结果文件夹
+scan		代理扫描结果文件夹
+search		搜索引擎吸附结果文件夹
+uniq		去重复,提取有效代理结果文件夹
+
+check_report.txt验证报告
+L1_chk.txt	代理验证结果,超级代理(High Anonymous)
+L2_chk.txt	代理验证结果,匿名代理(Anonymous)
+L3_chk.txt	代理验证结果,透明代理(Transparent)
+ssl_chk.txt	支持SSL的代理
+tunnel_chk.txt	支持CONNECT的代理
+socks4_chk.txt	Socks4
+socks5_chk.txt	Socks5
+lib.txt		代理库，积累有效代理
+gate.txt	网关代理
+

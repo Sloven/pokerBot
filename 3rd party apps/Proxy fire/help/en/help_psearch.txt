@@ -1,0 +1,44 @@
+Help Document: Proxy Search
+
+1, Feature£º
+Search proxy list through search engines, and automatically check.
+You can set to screen out the needed countries first, and then check.
+Built in search engine moulds, such as Google, Baidu, Yahoo! MSN, and you can add search engine moulds.
+
+2, How to use:
+1).Add keywords (keywords.txt)
+Add some fresh proxies in "keywords.txt" to be search seeds.
+
+2). Click "Go!" to run search proxy.
+After the keywords in "keywords.txt" are finished, it'll use the freshly hunted keywords as keywords.
+
+3).Start to check proxies, when the hunted proxies reach the set limit. 
+Before check, goes duplicates remove first.
+If you set countries limit and PORT screen, it'll screen out the pointed countries and PORT first, then check.
+
+Result document directory:
+lists\search
+
+
+3.Search Engine Template:
+The template files are named "psearchX.ini (X=1-100)", put in the root directory.
+format:
+[search]   the same as it, first row
+name       Search engine name
+engine     search connection of Search Engine, "%KEYWORD%" stand for keywords, "%PAGE%" for page turning
+link_start= start character string at the hyperlink of the search result 
+end_start = end character string at the hyperlink of the search result 
+
+See the source code returned by search engine, search hyperlink in the search result, it's right between"link_start" and "end_start".
+
+For example:[search]	
+name=Google
+engine=http://www.google.com/search?hl=en&lr=&as_epq=%KEYWORD%&start=%PAGE%
+link_start=<p class=g>
+link_end=" target
+
+
+
+
+
+

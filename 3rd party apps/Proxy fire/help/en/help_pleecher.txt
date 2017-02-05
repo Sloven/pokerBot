@@ -1,0 +1,42 @@
+Help Document: Proxy Leecher
+
+1, Feature:
+Leech forum Proxy list, and automatically check.
+You can set to screen out the countries and PORT you need, then check(set on check page)
+
+Forum list supports "Forum Proxy Leecher" format, namely:
+forum link|topic link characteristic|whether scan accessory|accessory link characteristic
+
+Support leech forum attachment.
+
+2,How to use:
+1). Edit forum list (forumlist.txt)
+Either directly use the forum list of "Forum Proxy Leecher", or edit yourself. Click "Forum List" button to edit.
+
+2).Click "Go!" to start leech proxies.
+
+3).When the hunted proxies reach the limit, it'll start to check.
+Befor check, goes duplicates remove.
+If you set the country limit and PORT screen, it'll screen out the pointed countries and PORT first, and then check.
+
+Result document directory: lists\leecher 
+
+
+3.Notes:
+The format of "forumlist.txt" is: 
+forum link|topic link characteristic|whether scan accessory|accessory link characteristic
+
+for example:
+1).Leech proxies from "cnwebmaster", leech attchment.Its URL consists"attachment.php", so it's an attachment, this's just an example. but actually you cannot hunt the attachment, because the forum made a set that nonymity is not allowed to see attachment.
+http://www.cnwebmasters.cn/forumdisplay.php?fid=6|viewthread.php|1|attachment.php
+
+2). Leech "page0 - page10" from "proxy4free".
+http://www.proxy4free.com|page|0
+
+3).Leech forum proxy from "aliveproxy", with no attachment.
+http://www.aliveproxy.com/forum/index.php?showforum=4|showtopic|0
+
+4).Directly leech single Url.
+http://anonymous.ru/index.php?p=proxy
+
+ 

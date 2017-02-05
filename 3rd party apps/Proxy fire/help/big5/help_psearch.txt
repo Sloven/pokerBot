@@ -1,0 +1,51 @@
+Help幫助文檔
+
+P-Search 代理搜索
+
+通過搜索引擎搜索代理列表，自動驗証，可以設定過濾出需要的國家再驗証
+
+內置Google, Baidu, Yahoo! MSN搜索引擎模板，可以自己添加搜索引擎模板
+
+
+使用步驟:
+
+1,添加關鍵字(keywords.txt)
+在keywords.txt中添加一部分新鮮代理，作為搜索種子
+
+2,點擊"Go" 開始搜索代理
+
+keywords.txt中的關鍵字用完后，會自動使用獲取到的新鮮代理作為關鍵字
+
+3,當獲取到的代理數到達設定的門限，開始驗証代理
+
+驗証前,先將代理去重復
+如果設定了國家限制和端口過濾,將先把指定國家和端口的代理過濾出來,再驗証。
+
+結果保存位置:
+lists\search
+
+
+搜索引擎模板：
+模板文件命名為psearchX.ini (X=1-100), 放到跟目錄下
+格式:
+[search] 這個照寫，占第一行
+name 搜索引擎的名字
+engine 搜索引擎的搜索連接，其中用%KEYWORD%代表關鍵字，%PAGE%代表翻頁
+link_start=搜索結果超連接部分開始字符串
+end_start=搜索結果超連接部分結束字符串
+看搜索引擎返回的原代碼，只要搜索結果超連接，包含在link_start,end_start之間即可
+
+
+例如：
+[search]	
+name=Google
+engine=http://www.google.com/search?hl=en&lr=&as_epq=%KEYWORD%&start=%PAGE%
+link_start=<p class=g>
+link_end=" target
+
+
+
+
+
+
+

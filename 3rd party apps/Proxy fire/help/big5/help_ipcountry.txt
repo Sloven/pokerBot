@@ -1,0 +1,51 @@
+Help幫助文檔
+
+IPCountry 代理IP所在國家查詢
+
+提供高速度的代理IP所在國家查詢，10萬條記錄只需几秒鐘
+自定義國家分組
+
+1,導入代理列表 
+點"Import"，選擇要文件導入代理列表，或者直接粘貼代理到In文本框
+
+2,自定義國家分組
+Countries文本框中填寫希望的國家分組
+可以分不同的組，每個組包含几個國家
+每個組以;號隔開
+每個組中的每個國家以,號隔開
+分組后的結果保存在lists/country/組名.txt文件中，前四個國家組結果
+在四個輸出框中顯示
+
+3,點擊"Go!" 開始查詢
+僅需要几秒鐘
+
+4,獲取結果
+查詢后的結果保存在
+lists\country 所有結果
+
+
+5,更新IP所在地查詢庫
+
+感謝daixiy與純真IP庫比較測試，感謝flyingfish83提供GeoIP庫
+
+目前使用國外最新ip-to-country地址庫(目前為2006.07.20版本),根據實驗與www.maxmind.com的GeoIP庫
+准確度一致，比國內的ip庫准確很多
+ip-to-country.cvs官方網址為：http://ip-to-country.webhosting.info/
+GeoIP庫官方網址為：http://www.maxmind.com/app/ip-location
+
+更新最新ip庫的方法：
+1，到官方網站下載最新ip-to-country.cvs庫
+http://ip-to-country.webhosting.info/downloads/ip-to-country.csv.zip
+2，用i2chan22漢化
+3，拷貝到軟件目錄下，刪除ipcountry.dat
+4, 重新運行軟件，查詢ip-country, 軟件自動生成新ipcountry.dat
+
+
+ip所屬地國際管理中心官方驗証網址為:
+http://whois.org
+美國 ARIN(American Registry for Internet Numbers):
+http://ws.arin.net/cgi-bin/whois.pl 
+歐州 RIPE(R  seaux IP Europ  ens) :
+http://www.ripe.net/db/whois/whois.html
+亞太地區(Asia Pacific Network Infomation Centre):
+http://www.apnic.net/apnic-bin/whois.pl/

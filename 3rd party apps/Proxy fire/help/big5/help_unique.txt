@@ -1,0 +1,19 @@
+Help幫助文檔
+
+Remove Duplicates 刪除重復代理(排序并刪除重復行)
+
+提供高速度去重復行操作，10萬條記錄只需几秒鐘
+
+*去除代理水印(trim proxies)*
+選中Trim proxies, 去重復的同時 可以從雜亂的字符中提取代理字符串
+
+
+1,導入代理列表 
+點"Import"，選擇要文件導入代理列表，或者直接粘貼代理到In文本框
+
+2,點擊"Go!" 開始操作
+
+3,獲取結果
+操作后的結果保存在
+lists\unique\dup.txt 去重復前的代理列表
+lists\unique\unique.txt 去重復后的代理列表

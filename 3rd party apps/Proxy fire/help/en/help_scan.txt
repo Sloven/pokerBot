@@ -1,0 +1,32 @@
+Help Document: P-Scan
+
+High-speed Proxy Scanner
+
+Scan type is SYN.
+Scan result are checked and classified automatically.
+Optimize and create IP ranges from proxy list.
+
+Notice:
+1,SYN scanner need Administrator privilege.
+2,SYN scanner works well with Windows 2000 and Windows 2003, but not Windows XP and Windows Vista.
+Windows XP and Vista have the limitation of TCP parallel connections.
+
+How to use: Step by step
+A demo Movie is here:
+http://proxyfire.org/proxyfire_scan.swf
+
+1) load IP ranges from file or the "IP Ranges Maker"
+2) set proxis port you want to scan, for example:
+8000
+8080
+7212
+3128
+1080
+
+3) Delete Dangerous IP Ranges
+4) Set scan process priority to "BELOW NORMAL"
+5) Set check threshold between 2000 and 10000, or other value you'd like
+6) Click Scan!
+
+
+The scan results are saved in the directory of lists/scan

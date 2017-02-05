@@ -1,0 +1,16 @@
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\bin\Debug\BlobsExplorer.exe
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\bin\Debug\BlobsExplorer.pdb
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\bin\Debug\AForge.dll
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\bin\Debug\AForge.Imaging.dll
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\bin\Debug\AForge.Math.dll
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\bin\Debug\AForge.xml
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\bin\Debug\AForge.Imaging.xml
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\bin\Debug\AForge.Math.xml
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.csprojResolveAssemblyReference.cache
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.BlobsBrowser.resources
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.MainForm.resources
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.Properties.Resources.resources
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.AboutForm.resources
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.csproj.GenerateResource.Cache
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.exe
+D:\myProjects\pokerBot\AForge\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.pdb

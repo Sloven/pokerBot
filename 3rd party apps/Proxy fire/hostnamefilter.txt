@@ -1,0 +1,9 @@
+:*.edu
+:*.planetlab1.*
+:planetlab2*
+planetlab
+mil
+.gov
+comcast
+earthlink
+*k12*

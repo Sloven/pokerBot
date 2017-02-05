@@ -1,0 +1,19 @@
+Help帮助文档
+
+Remove Duplicates 删除重复代理(排序并删除重复行)
+
+提供高速度去重复行操作，10万条记录只需几秒钟
+
+*去除代理水印(trim proxies)*
+选中Trim proxies, 去重复的同时 可以从杂乱的字符中提取代理字符串
+
+
+1,导入代理列表 
+点"Import"，选择要文件导入代理列表，或者直接粘贴代理到In文本框
+
+2,点击"Go!" 开始操作
+
+3,获取结果
+操作后的结果保存在
+lists\unique\dup.txt 去重复前的代理列表
+lists\unique\unique.txt 去重复后的代理列表

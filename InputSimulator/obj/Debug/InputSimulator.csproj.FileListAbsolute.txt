@@ -1,0 +1,6 @@
+D:\myProjects\pokerBot\InputSimulator\bin\Debug\InputSimulator.XML
+D:\myProjects\pokerBot\InputSimulator\bin\Debug\InputSimulator.dll
+D:\myProjects\pokerBot\InputSimulator\bin\Debug\InputSimulator.pdb
+D:\myProjects\pokerBot\InputSimulator\obj\Debug\InputSimulator.dll
+D:\myProjects\pokerBot\InputSimulator\obj\Debug\InputSimulator.pdb
+D:\myProjects\pokerBot\InputSimulator\obj\Debug\InputSimulator.csprojResolveAssemblyReference.cache

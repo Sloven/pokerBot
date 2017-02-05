@@ -1,0 +1,21 @@
+Help Document: Ip to country
+
+Provide high-speed proxy " ip to country " searching and grouping according to self-defining, at a rate of 100 thousand items per seconds.
+
+1. Import proxy list:
+Click " Import " button to import proxy list from files or paste proxies to "In" textbox.
+
+2.Self-defining country grouping:
+In "Countries" textbox, group countries as you like, or group into small groups,which consist several countries.
+Group is set off by " ; ", country by "," .
+Grouping result document directory is "lists/country/*.txt", and the first four country groups will be shown in the output textbox.
+
+3.Click "Go!" to start searching:
+Wait only a few seconds.
+
+4.Searching result:
+All the results will be preserved in the directory of "lists/country".
+
+5.Fresh IP location searching database:
+Use the "ip-to-country" database at http://ip-to-country.webhosting.info/
+You can download and update the database by yourself.
